@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 저는 Happywildgoose 입니다 👋</h1>
+<h1 align="center">안녕하세요, 저는 Yoomin 입니다 👋</h1>
 
 <p align="center">
   <em>동양사 석사 출신의 개발 입문자 · 역사와 기술의 교차점을 탐구합니다</em>
